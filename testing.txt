@@ -1,0 +1,44 @@
+# Title: Pi.hole Playground Testing
+# Description: Pi.Hole Playground for Testing Purposes
+# Author: Fox2k11
+# License: GNU General Public License v3.0
+#===============================================================
+
+## Amazon Devices ###
+# Testing - Unknown usage
+#ktpx-eu.amazon.com
+#dp-rsm-prod.amazon.com
+#firetvdeviceprofilemanagementservice-na.amazon.com
+#prime.amazon.eu
+#dp-discovery-na-ext.amazon.com
+#frank-comp-na.amazon.com
+#ftvr-na.amazon.com
+#dcape-na.amazon.com
+#dp-gw-na.amazon.com
+#unagi-eu.amazon.com
+#layla.amazon.com
+#todo-ta-g7g.amazon.com
+#spectrum.s3.amazonaws.com
+#arcus-uswest.amazon.com
+#pinpoint.us-east-1.amazonaws.com
+#aviary.amazon.de
+
+# API connections (unknown usage)
+#api.amazon.com
+#n4h9utzk4f.execute-api.us-east-1.amazonaws.com
+
+# Alexa - This will block Alexa enabled devices from Working
+cortana-gateway.amazon.com
+api.amazonalexa.com
+avs.eu.amazonalexa.com
+avs.amazonalexa.com
+layla.amazon.de
+alexa-comms-mobile-service-gamma.amazon.de
+alexa.amazon.de
+
+#Alexa Testing
+avs-proxy-pre-release-1.amazon.com
+alexa-fe-pre-release-1.amazon.com
+alexa-eu-pre-release-1.amazon.com
+alexa-auto.device-metrics-us-2.amazon.com
+alexa-comms.device-metrics-us-2.amazon.com
