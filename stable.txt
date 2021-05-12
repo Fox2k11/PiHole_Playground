@@ -1,0 +1,143 @@
+# Title: Pi.hole Blocklist Stable 
+# Description: Working Blocklist with Tested Entrys
+# Author: Fox2k11
+# License: GNU General Public License v3.0
+#===============================================================
+
+# Amazon FireTV
+device-messaging-na.amazon.com
+devicemessaging.us-east-1.amazon.com
+fls-eu.amazon.com
+fls-na.amazon.com
+mads-eu.amazon.com
+mas-sdk.amazon.com
+digprjsurvey.amazon.eu
+aax-eu.amazon-adsystem.com
+msh.amazon.co.uk
+mobileanalytics.us-east-1.amazonaws.com
+device-metrics-us.amazon.com
+device-metrics-us-2.amazon.com
+ipv6.device-metrics-us.amazon.com
+ipv6.device-metrics-us-2.amazon.com
+transponder.amazon.de
+
+# third party tracking & Ads
+config.ioam.de
+de.ioam.de 
+secure-eu.imrworldwide.com #Ads
+logs1409.xiti.com #logging
+tracksrv.zdf.de # tracking
+settings.crashlytics.com # tracking
+notify.firetv.bugsnag.appstore.a2z.com # Tracking - logging
+ads.twitter.com
+app-measurement.com
+events.appsflyer.com
+stats.appsflyer.com
+t.appsflyer.com
+log.musical.ly
+live.direct.ly
+device.zhiliaoapp.com
+uop.umeng.com
+alog.umeng.com
+alog.umengcloud.com
+api.branch.io
+cp.pushwoosh.com
+ws.tapjoyads.com
+connect.tapjoy.com
+ads.api.vungle.com
+adlog.flurry.com
+data.flurry.com
+wd.adcolony.com
+events3.adcolony.com
+events3alt.adcolony.com
+adc3-launch.adcolony.com
+supersonicads-a.akamaihd.net
+i.w.inmobi.com
+sdktm.w.inmobi.com
+ads.mopub.com
+api.gameanalytics.com
+med.heyzap.com
+api.uca.cloud.unity3d.com
+gate.hockeyapp.net
+sdk.hockeyapp.net
+engine.fyber.com
+trk.pinterest.com
+graph.accountkit.com
+1681.engine.mobileapptracking.com
+engine.mobileapptracking.com
+mobileapptracking.com
+config.ioam.de
+logs.locarta.co
+postback.pointwise.co
+dev.appboy.com
+z.moatads.com
+appspot-preview.l.google.com
+m.quantcount.com
+app.adjust.com
+utraffic.engine.adglare.net
+
+# Google
+www.googleadservices.com
+googleads.g.doubleclick.net
+securepubads.g.doubleclick.net
+ad.doubleclick.net
+ssl.google-analytics.com
+adservice.google.de
+ade.googlesyndication.com
+id.google.de
+
+# Apple
+stats.gc.apple.com
+iadsdk.apple.com
+
+# Huawei
+servicesupport.hicloud.com
+
+# Snapchat ads and tracking
+sc-analytics.appspot.com
+app-analytics.snapchat.com
+adserver.snapads.com
+euw.adserver.snapads.com
+euc.adserver.snapads.com
+usc.adserver.snapads.com
+ase.adserver.snapads.com
+tr.snapchat.com
+
+# Whatsapp
+crashlogs.whatsapp.net
+
+# Quizduell
+rt.applovin.com
+d.applvn.com
+a.applvn.com
+applvn.com
+
+# Leanplum
+leanplum.com
+www.leanplum.com
+api.leanplum.com
+
+## Blacklist
+applovin.com
+adcolony.com
+spade.sci.twitch.tv
+cdp.cloud.unity3d.com
+mdsglvod-a.akamaihd.net
+cdn.smartclip.net
+watson.telemetry.microsoft.com
+auth.gfx.ms
+canonicalizer.ucsuri.tcs
+query.jingxuncloud.com
+redshell.io
+p4-gc4wv23xkap5s-xnzn65ihaszy7zgw-if-v6exp3-v4.metric.gstatic.com
+heads-fa.spotify.com
+track.noz.de
+livestats.ffh.de
+analytics.ffh.de
+prod-telemetry.paradox-interactive.com
+api.paradox-interactive.com
+sams.spiegel.de
+audev.zeit.de
+e.crashlytics.com
+reports.crashlytics.com
+settings.crashlytics.com
