@@ -1,3 +1,4 @@
 # PiHole_Playground
-Pi.Hole Playground for Testing Purposes
+Testiing.txt is for Testing Purposes
+Stable.txt is the Working Blocklist
 
