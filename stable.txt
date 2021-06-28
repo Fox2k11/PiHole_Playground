@@ -141,3 +141,4 @@ audev.zeit.de
 e.crashlytics.com
 reports.crashlytics.com
 settings.crashlytics.com
+whynotwin11.com # Malicious 
